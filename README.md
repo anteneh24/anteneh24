@@ -11,6 +11,6 @@ Currently, developing the ✍🏻 axis.app online ride sharing app.
 <a href="https://www.linkedin.com/in/anteneh-temesgen-3308301a5/" title="Follow me on LinkedIn" rel="nofollow">
 <img width="24" alt="Follow me on LinkedIn" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg" style="max-width: 100%;">
 </a>
-<a href="https://medium.com/@antenehtemesgen" title="Follow me on Medium" rel="nofollow">
+<a href="https://medium.com/@at52" title="Follow me on Medium" rel="nofollow">
   <img width="24" alt="Follow me on Medium" src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg" style="max-width: 100%;">
 </a>
